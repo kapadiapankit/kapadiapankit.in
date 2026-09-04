@@ -24,8 +24,8 @@ $selectedFavicon = $faviconMap[$selectedTheme];
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pankit Kapadia | Software Architect</title>
-    <meta name="description" content="Portfolio of Pankit Kapadia, a Software Architect with <?php echo $yearsOfExperience; ?>+ years of experience in React.js, Redux, TypeScript, and Node.js.">
+    <title>Pankit Kapadia | Frontend Architect</title>
+    <meta name="description" content="Portfolio of Pankit Kapadia, a Frontend Architect with <?php echo $yearsOfExperience; ?>+ years of experience in React.js, Redux, TypeScript, and Node.js.">
     
     <!-- Canonical URL -->
     <link rel="canonical" href="https://kapadiapankit.in">
@@ -36,15 +36,15 @@ $selectedFavicon = $faviconMap[$selectedTheme];
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://kapadiapankit.in">
-    <meta property="og:title" content="Pankit Kapadia | Software Architect">
-    <meta property="og:description" content="Software Architect specializing in React, TypeScript, and Node.js. <?php echo $yearsOfExperience; ?>+ years building scalable web applications.">
+    <meta property="og:title" content="Pankit Kapadia | Frontend Architect">
+    <meta property="og:description" content="Frontend Architect specializing in React, TypeScript, and Node.js. <?php echo $yearsOfExperience; ?>+ years building scalable web applications.">
     <meta property="og:site_name" content="Pankit Kapadia Portfolio">
     
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary">
     <meta name="twitter:url" content="https://kapadiapankit.in">
-    <meta name="twitter:title" content="Pankit Kapadia | Software Architect">
-    <meta name="twitter:description" content="Software Architect specializing in React, TypeScript, and Node.js. <?php echo $yearsOfExperience; ?>+ years building scalable web applications.">
+    <meta name="twitter:title" content="Pankit Kapadia | Frontend Architect">
+    <meta name="twitter:description" content="Frontend Architect specializing in React, TypeScript, and Node.js. <?php echo $yearsOfExperience; ?>+ years building scalable web applications.">
     
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -58,7 +58,7 @@ $selectedFavicon = $faviconMap[$selectedTheme];
       "@context": "https://schema.org",
       "@type": "Person",
       "name": "Pankit Kapadia",
-      "jobTitle": "Software Architect",
+      "jobTitle": "Frontend Architect",
       "email": "pankit_1990@yahoo.com",
       "url": "https://kapadiapankit.in",
       "sameAs": [
@@ -67,7 +67,7 @@ $selectedFavicon = $faviconMap[$selectedTheme];
       "knowsAbout": ["React.js", "TypeScript", "Node.js", "Electron.js", "Redux", "JavaScript", "Web Development"],
       "worksFor": {
         "@type": "Organization",
-        "name": "Qualitia Software"
+        "name": "UBS Business Solutions"
       }
     }
     </script>
@@ -91,7 +91,7 @@ $selectedFavicon = $faviconMap[$selectedTheme];
             <h2>Pankit Kapadia.</h2>
             <h3>I build scalable web applications.</h3>
             <p>
-                I'm a Software Architect with <?php echo $yearsOfExperience; ?>+ years of experience delivering scalable, performant, and user-centric web applications across diverse domains including Banking, Test Automation, E-commerce, and Marketing. Currently focusing on AI-driven features at Qualitia Software.
+                I'm a Frontend Architect with <?php echo $yearsOfExperience; ?>+ years of experience delivering scalable, performant, and user-centric web applications across diverse domains including Banking, Test Automation, E-commerce, and Marketing. Currently working as Associate Director at UBS Business Solutions, focusing on enterprise-grade frontend applications and application security.
             </p>
             <a href="mailto:pankit_1990@yahoo.com" class="btn">Get In Touch</a>
         </section>
@@ -104,10 +104,10 @@ $selectedFavicon = $faviconMap[$selectedTheme];
             <div class="about-content">
                 <div class="about-text">
                     <p>
-                        Hello! I'm Pankit, a software architect who enjoys building things that live on the internet. My journey started back in 2012, and over the years, I've delivered solutions across diverse domains including <strong>Digital Marketing</strong>, <strong>Banking</strong>, <strong>E-Commerce</strong>, <strong>Healthcare</strong>, and <strong>Test Automation</strong>.
+                        Hello! I'm Pankit, a frontend architect who enjoys building things that live on the internet. My journey started back in 2012, and over the years, I've delivered solutions across diverse domains including <strong>Digital Marketing</strong>, <strong>Banking</strong>, <strong>E-Commerce</strong>, <strong>Healthcare</strong>, and <strong>Test Automation</strong>.
                     </p>
                     <p>
-                        My main focus these days is building accessible, inclusive products and digital experiences at <strong>Qualitia Software</strong>. I specialize in architecting frontend frameworks, reusable UI components, and integrating AI-driven features.
+                        My main focus these days is building enterprise-grade frontend applications at <strong>UBS Business Solutions</strong>. I specialize in architecting scalable frontend systems, reusable component libraries, and integrating AI-driven features.
                     </p>
                     <p>Here are a few technologies I've been working with recently:</p>
                     <ul class="skills-list">
@@ -132,11 +132,25 @@ $selectedFavicon = $faviconMap[$selectedTheme];
                 
                 <div class="job-card">
                     <div class="job-header">
-                        <h4>Lead Software Engineer <span style="color: var(--accent);">@ Qualitia Software</span></h4>
-                        <h5>Jul 2024 – Present</h5>
+                        <h4>Associate Director <span style="color: var(--accent);">@ UBS Business Solutions</span></h4>
+                        <h5>Feb 2026 – Present</h5>
                     </div>
                     <ul class="job-desc">
-                        <li>Leading development of an advanced test automation platform using React.js, Redux, Electron.js, and Node.js.</li>
+                        <li>Develop and maintain front-end applications using React.js, TypeScript, JavaScript, HTML, and CSS.</li>
+                        <li>Collaborate on feature design, architecture, and technical decisions across cross-functional teams.</li>
+                        <li>Review code, enforce best practices, and support branching strategies to maintain high code quality.</li>
+                        <li>Contribute to application security by identifying and resolving third-party dependency vulnerabilities across React and Java-based applications.</li>
+                        <li>Building familiarity with enterprise Java applications, Maven build configuration, and internal deployment processes through security remediation initiatives.</li>
+                    </ul>
+                </div>
+
+                <div class="job-card">
+                    <div class="job-header">
+                        <h4>Lead Software Engineer <span style="color: var(--accent);">@ Qualitia Software</span></h4>
+                        <h5>Jul 2024 – Jan 2026</h5>
+                    </div>
+                    <ul class="job-desc">
+                        <li>Led development of an advanced test automation platform using React.js, Redux, Electron.js, and Node.js.</li>
                         <li>Architected and implemented AI-driven features to auto-generate test cases and scripts via natural language — reducing manual effort by 70%.</li>
                         <li>Refactored core modules and introduced reusable component libraries, improving maintainability and performance.</li>
                         <li>Designed and built RESTful Node.js APIs integrated with LLMs to support AI workflows.</li>
